@@ -1,4 +1,4 @@
-# FORENSICGRAPGH
+# FORENSIC GRAPH
 ForensicGraph is a graph-based financial crime detection system designed to identify suspicious transaction patterns such as money muling networks, circular fund routing, smurfing behavior, and shell account structures.
 
 The platform allows users to upload transaction datasets in CSV format and automatically analyzes relationships between accounts using graph theory algorithms to detect fraud patterns.
